@@ -7,7 +7,7 @@ export default function Products() {
   const productDataItemList = productsData.data.item_list as unknown as IProductItem[];
 
   return (
-    <Grid container spacing={2} sx={{ p: 4 }}>
+    <Grid container spacing={2} sx={{ p: 2 }}>
       {productDataItemList.map(({ shop, product }, index) => (
         <Grid item xs={4} key={index}>
           <ProductCard
