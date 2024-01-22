@@ -1,6 +1,7 @@
-import { Card, CardActionArea, CardMedia, Typography, CardContent, Box } from '@mui/material';
+import { Card, CardMedia, Typography, CardContent, Box } from '@mui/material';
 import { IProductBadgeList } from '../../data/products/IProduct';
 import { priceWithComma } from '../../helper/number.helper';
+import StarIcon from '@mui/icons-material/Star';
 
 interface IProductCard {
   imageUrl: string
@@ -25,13 +26,13 @@ export default function ProductCard (props: IProductCard) {
         image={props.imageUrl}
         sx={{ borderRadius: '10px' }}
       />
-      <CardContent sx={{ padding: '8px 4px 4px 0' }}>
+      <CardContent sx={{ padding: '8px 4px 0 0', display: 'flex', flexDirection: 'column', gap: '2px' }}>
         <Typography variant="caption" display="block" fontWeight="bold">
           {props.sellerName}
         </Typography>
         <Typography
-          variant="body2"
           sx={{
+            fontSize: '12px',
             overflow: 'hidden',
             textOverflow: 'ellipsis',
             display: '-webkit-box',
@@ -41,17 +42,35 @@ export default function ProductCard (props: IProductCard) {
         >
           {props.productName}
         </Typography>
-        {props.originPrice !== 0 &&
-          <Box display="flex" alignItems="center">
-            <Typography variant="subtitle2" sx={{ fontWeight: 'bold', color: props.discountColor, marginRight: '4px' }}>{props.discountTitle}</Typography>
-            <Typography variant="subtitle2" sx={{ textDecoration: 'line-through' }} color="text.secondary">{priceWithComma(props.originPrice)}</Typography>
-          </Box>
-        }
-        <Box display="flex" alignItems="center">
-          {props.discountRate !== 0 &&
-            <Typography  variant="subtitle1" fontWeight={600} mr="4px" color={props.discountColor}>{props.discountRate}%</Typography>
+        <Box display="flex" flexDirection="column">
+          {props.originPrice !== 0 &&
+            <Box display="flex" alignItems="center">
+              <Typography sx={{ fontSize: '12px', fontWeight: 'bold', color: props.discountColor, marginRight: '4px' }}>{props.discountTitle}</Typography>
+              <Typography sx={{ fontSize: '12px', textDecoration: 'line-through' }} color="text.secondary">{priceWithComma(props.originPrice)}</Typography>
+            </Box>
           }
-          <Typography  variant="subtitle1"  fontWeight={600}>{priceWithComma(props.finalPrice)}</Typography>
+          <Box display="flex" alignItems="center">
+            {props.discountRate !== 0 &&
+              <Typography fontSize="16px" lineHeight="18px" fontWeight={600} mr="4px" color={props.discountColor}>{props.discountRate}%</Typography>
+            }
+            <Typography fontSize="16px" lineHeight="18px" fontWeight={600}>{priceWithComma(props.finalPrice)}</Typography>
+          </Box>
+        </Box>
+        <Box display="flex" alignItems="center" gap="2px">
+          {props.badgeList.map((badge, index) => {
+            return (
+              <img src={badge.image_url} key={index} height={14} alt="badge"/>
+            )
+          })}
+        </Box>
+        <Box display="flex">
+          <Box display="flex" alignItems="center">
+            <StarIcon sx={{ fontSize: '12px', mb: '2px' }}/>
+            <Typography variant="caption" fontWeight={500} color="#697175">
+              {props.reviewScore}
+            </Typography>
+          </Box>
+          <Typography variant="caption" fontWeight={500} color="#a1a9ad">({props.reviewCount})</Typography>
         </Box>
       </CardContent>
     </Card>

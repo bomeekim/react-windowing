@@ -1,6 +1,6 @@
 import { Grid } from '@mui/material';
 import productsData from '../../data/products.json';
-import { IProduct, IProductData, IProductItem } from '../../data/products/IProduct';
+import { IProductItem } from '../../data/products/IProduct';
 import ProductCard from './ProductCard';
 
 export default function Products() {

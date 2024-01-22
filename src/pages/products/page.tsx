@@ -7,15 +7,7 @@ const Container = styled('div')({
   paddingBottom: 4,
 });
 
-const Paper = styled('div')({
-  display: 'flex',
-  flexDirection: 'column',
-  alignItems: 'center',
-  padding: 3,
-});
-
 const ProductsPage = () => {
-
   return(
     <Container>
       <Grid container justifyContent="center">
