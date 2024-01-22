@@ -12,7 +12,7 @@ export default function Products() {
         <Grid item xs={4} key={index}>
           <ProductCard
             key={index}
-            imageUrl={product.image_url}
+            imageUrl={product.webp_image_url}
             sellerName={shop.name}
             productName={product.title}
             originPrice={product.max_price_with_currency.price_without_decimal}
