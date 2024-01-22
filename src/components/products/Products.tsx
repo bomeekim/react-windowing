@@ -1,10 +1,10 @@
-import { Grid } from '@mui/material';
-import productsData from '../../data/products.json';
-import { IProductItem } from '../../data/products/IProduct';
-import ProductCard from './ProductCard';
+import { Grid } from '@mui/material'
+import productsData from '../../data/products.json'
+import { IProductItem } from '../../data/products/IProduct'
+import ProductCard from './ProductCard'
 
 export default function Products() {
-  const productDataItemList = productsData.data.item_list as unknown as IProductItem[];
+  const productDataItemList = productsData.data.item_list as unknown as IProductItem[]
 
   return (
     <Grid container spacing={2} sx={{ p: 2 }}>
@@ -27,6 +27,5 @@ export default function Products() {
         </Grid>
       ))}
     </Grid>
-
-  );
+  )
 }
