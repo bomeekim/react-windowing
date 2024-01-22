@@ -1,0 +1,1412 @@
+{
+  "data": {
+    "item_list": [
+      {
+        "shop": {
+          "id": "20526",
+          "main_domain": "cq-tsn28u2w",
+          "name": "이니스프리"
+        },
+        "product": {
+          "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/1/1/20526_202401011605560395_53497.gif?width=400&height=400&quality=80&format=jpeg",
+          "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/1/1/20526_202401011605560395_53497.gif?width=400&height=400&quality=80&format=webp",
+          "product_url": "https://store.zigzag.kr/app/catalog/products/117979471",
+          "title": "[MD PICK] 레티놀 시카 흔적 앰플[대용량] 50mL + 사은품 증정",
+          "discount_rate": 28,
+          "free_shipping": true,
+          "zpay": true,
+          "has_coupon": false,
+          "price": 41040,
+          "final_price": 41040,
+          "final_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 41040,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "max_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 57000,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "is_zpay_discount": true,
+          "catalog_product_id": "117979471",
+          "browsing_type": "INTERNAL_BROWSER",
+          "review_count": 773,
+          "review_score": 4.9,
+          "shop_product_no": null,
+          "shop_id": "20526",
+          "is_zonly": false,
+          "is_brand": false,
+          "sellable_status": "ON_SALE",
+          "discount_info": {
+            "image_url": null,
+            "title": "12시간특가",
+            "color": "#FA6EE3",
+            "issue_end_date": null
+          },
+          "badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311828160547_73183.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311827300618_88100.png",
+              "small_image_url": null,
+              "small_dark_image_url": null,
+              "type": "FREE_SHIPPING"
+            }
+          ],
+          "brand_name_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253440850_86236.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253290551_11325.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252270325_99481.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252400801_82415.png",
+              "type": "MILEAGE"
+            }
+          ],
+          "thumbnail_nudge_badge_list": null,
+          "thumbnail_emblem_badge_list": []
+        }
+      },
+      {
+        "shop": {
+          "id": "20526",
+          "main_domain": "cq-tsn28u2w",
+          "name": "이니스프리"
+        },
+        "product": {
+          "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/1/10/20526_202401100914390874_69645.gif?width=400&height=400&quality=80&format=jpeg",
+          "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/1/10/20526_202401100914390874_69645.gif?width=400&height=400&quality=80&format=webp",
+          "product_url": "https://store.zigzag.kr/app/catalog/products/115503574",
+          "title": "레티놀 시카 흔적 앰플 30mL + 사은품 증정",
+          "discount_rate": 28,
+          "free_shipping": true,
+          "zpay": true,
+          "has_coupon": false,
+          "price": 28800,
+          "final_price": 28800,
+          "final_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 28800,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "max_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 40000,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "is_zpay_discount": true,
+          "catalog_product_id": "115503574",
+          "browsing_type": "INTERNAL_BROWSER",
+          "review_count": 856,
+          "review_score": 4.8,
+          "shop_product_no": null,
+          "shop_id": "20526",
+          "is_zonly": false,
+          "is_brand": false,
+          "sellable_status": "ON_SALE",
+          "discount_info": {
+            "image_url": null,
+            "title": "Z할인가",
+            "color": "#FA6EE3",
+            "issue_end_date": null
+          },
+          "badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311828160547_73183.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311827300618_88100.png",
+              "small_image_url": null,
+              "small_dark_image_url": null,
+              "type": "FREE_SHIPPING"
+            }
+          ],
+          "brand_name_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253440850_86236.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253290551_11325.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252270325_99481.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252400801_82415.png",
+              "type": "MILEAGE"
+            }
+          ],
+          "thumbnail_nudge_badge_list": null,
+          "thumbnail_emblem_badge_list": []
+        }
+      },
+      {
+        "shop": {
+          "id": "20526",
+          "main_domain": "cq-tsn28u2w",
+          "name": "이니스프리"
+        },
+        "product": {
+          "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/1/1/20526_202401011613390601_57237.gif?width=400&height=400&quality=80&format=jpeg",
+          "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/1/1/20526_202401011613390601_57237.gif?width=400&height=400&quality=80&format=webp",
+          "product_url": "https://store.zigzag.kr/app/catalog/products/115502614",
+          "title": "[MD PICK] 그린티 씨드 히알루론산 세럼 80mL + 사은품 증정",
+          "discount_rate": 28,
+          "free_shipping": true,
+          "zpay": true,
+          "has_coupon": false,
+          "price": 22320,
+          "final_price": 22320,
+          "final_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 22320,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "max_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 31000,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "is_zpay_discount": true,
+          "catalog_product_id": "115502614",
+          "browsing_type": "INTERNAL_BROWSER",
+          "review_count": 523,
+          "review_score": 4.9,
+          "shop_product_no": null,
+          "shop_id": "20526",
+          "is_zonly": false,
+          "is_brand": false,
+          "sellable_status": "ON_SALE",
+          "discount_info": {
+            "image_url": null,
+            "title": "Z할인가",
+            "color": "#FA6EE3",
+            "issue_end_date": null
+          },
+          "badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311828160547_73183.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311827300618_88100.png",
+              "small_image_url": null,
+              "small_dark_image_url": null,
+              "type": "FREE_SHIPPING"
+            }
+          ],
+          "brand_name_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253440850_86236.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253290551_11325.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252270325_99481.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252400801_82415.png",
+              "type": "MILEAGE"
+            }
+          ],
+          "thumbnail_nudge_badge_list": null,
+          "thumbnail_emblem_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "type": "FAST_START"
+            }
+          ]
+        }
+      },
+      {
+        "shop": {
+          "id": "20526",
+          "main_domain": "cq-tsn28u2w",
+          "name": "이니스프리"
+        },
+        "product": {
+          "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/1/4/20526_202401041640130347_30925.gif?width=400&height=400&quality=80&format=jpeg",
+          "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/1/4/20526_202401041640130347_30925.gif?width=400&height=400&quality=80&format=webp",
+          "product_url": "https://store.zigzag.kr/app/catalog/products/124461966",
+          "title": "[MD PICK] 비타C 그린티 엔자임 잡티 토닝 세럼 30mL + 사은품 증정",
+          "discount_rate": 35,
+          "free_shipping": true,
+          "zpay": true,
+          "has_coupon": false,
+          "price": 24700,
+          "final_price": 24700,
+          "final_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 24700,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "max_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 38000,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "is_zpay_discount": true,
+          "catalog_product_id": "124461966",
+          "browsing_type": "INTERNAL_BROWSER",
+          "review_count": 275,
+          "review_score": 4.8,
+          "shop_product_no": null,
+          "shop_id": "20526",
+          "is_zonly": false,
+          "is_brand": false,
+          "sellable_status": "ON_SALE",
+          "discount_info": {
+            "image_url": null,
+            "title": "Z할인가",
+            "color": "#FA6EE3",
+            "issue_end_date": null
+          },
+          "badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311828160547_73183.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311827300618_88100.png",
+              "small_image_url": null,
+              "small_dark_image_url": null,
+              "type": "FREE_SHIPPING"
+            }
+          ],
+          "brand_name_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253440850_86236.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253290551_11325.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252270325_99481.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252400801_82415.png",
+              "type": "MILEAGE"
+            }
+          ],
+          "thumbnail_nudge_badge_list": null,
+          "thumbnail_emblem_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "type": "FAST_START"
+            }
+          ]
+        }
+      },
+      {
+        "shop": {
+          "id": "20526",
+          "main_domain": "cq-tsn28u2w",
+          "name": "이니스프리"
+        },
+        "product": {
+          "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/1/5/20526_202401051022510025_59114.gif?width=400&height=400&quality=80&format=jpeg",
+          "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/1/5/20526_202401051022510025_59114.gif?width=400&height=400&quality=80&format=webp",
+          "product_url": "https://store.zigzag.kr/app/catalog/products/127490814",
+          "title": "[MD PICK] 비타C 그린티 엔자임 잡티 토닝 세럼 50mL + 사은품 증정",
+          "discount_rate": 28,
+          "free_shipping": true,
+          "zpay": true,
+          "has_coupon": false,
+          "price": 40320,
+          "final_price": 40320,
+          "final_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 40320,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "max_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 56000,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "is_zpay_discount": true,
+          "catalog_product_id": "127490814",
+          "browsing_type": "INTERNAL_BROWSER",
+          "review_count": 85,
+          "review_score": 4.9,
+          "shop_product_no": null,
+          "shop_id": "20526",
+          "is_zonly": false,
+          "is_brand": false,
+          "sellable_status": "ON_SALE",
+          "discount_info": {
+            "image_url": null,
+            "title": "Z할인가",
+            "color": "#FA6EE3",
+            "issue_end_date": null
+          },
+          "badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311828160547_73183.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311827300618_88100.png",
+              "small_image_url": null,
+              "small_dark_image_url": null,
+              "type": "FREE_SHIPPING"
+            }
+          ],
+          "brand_name_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253440850_86236.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253290551_11325.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252270325_99481.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252400801_82415.png",
+              "type": "MILEAGE"
+            }
+          ],
+          "thumbnail_nudge_badge_list": null,
+          "thumbnail_emblem_badge_list": []
+        }
+      },
+      {
+        "shop": {
+          "id": "20526",
+          "main_domain": "cq-tsn28u2w",
+          "name": "이니스프리"
+        },
+        "product": {
+          "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/11/17/20526_202311171518370774_70979.gif?width=400&height=400&quality=80&format=jpeg",
+          "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/11/17/20526_202311171518370774_70979.gif?width=400&height=400&quality=80&format=webp",
+          "product_url": "https://store.zigzag.kr/app/catalog/products/131228513",
+          "title": "(홀리데이) 블랙티 유스 인핸싱 앰플 50mL 대용량 단품 세트",
+          "discount_rate": 30,
+          "free_shipping": true,
+          "zpay": true,
+          "has_coupon": false,
+          "price": 39200,
+          "final_price": 39200,
+          "final_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 39200,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "max_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 56000,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "is_zpay_discount": true,
+          "catalog_product_id": "131228513",
+          "browsing_type": "INTERNAL_BROWSER",
+          "review_count": 16,
+          "review_score": 5,
+          "shop_product_no": null,
+          "shop_id": "20526",
+          "is_zonly": false,
+          "is_brand": false,
+          "sellable_status": "ON_SALE",
+          "discount_info": {
+            "image_url": null,
+            "title": "Z할인가",
+            "color": "#FA6EE3",
+            "issue_end_date": null
+          },
+          "badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311828160547_73183.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311827300618_88100.png",
+              "small_image_url": null,
+              "small_dark_image_url": null,
+              "type": "FREE_SHIPPING"
+            }
+          ],
+          "brand_name_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253440850_86236.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253290551_11325.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252270325_99481.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252400801_82415.png",
+              "type": "MILEAGE"
+            }
+          ],
+          "thumbnail_nudge_badge_list": null,
+          "thumbnail_emblem_badge_list": []
+        }
+      },
+      {
+        "shop": {
+          "id": "20526",
+          "main_domain": "cq-tsn28u2w",
+          "name": "이니스프리"
+        },
+        "product": {
+          "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/1/1/20526_202401011615060536_27208.gif?width=400&height=400&quality=80&format=jpeg",
+          "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2024/1/1/20526_202401011615060536_27208.gif?width=400&height=400&quality=80&format=webp",
+          "product_url": "https://store.zigzag.kr/app/catalog/products/115506737",
+          "title": "블랙티 유스 인핸싱 앰플 30mL + 사은품 증정",
+          "discount_rate": 30,
+          "free_shipping": true,
+          "zpay": true,
+          "has_coupon": false,
+          "price": 26600,
+          "final_price": 26600,
+          "final_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 26600,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "max_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 38000,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "is_zpay_discount": true,
+          "catalog_product_id": "115506737",
+          "browsing_type": "INTERNAL_BROWSER",
+          "review_count": 190,
+          "review_score": 4.9,
+          "shop_product_no": null,
+          "shop_id": "20526",
+          "is_zonly": false,
+          "is_brand": false,
+          "sellable_status": "ON_SALE",
+          "discount_info": {
+            "image_url": null,
+            "title": "Z할인가",
+            "color": "#FA6EE3",
+            "issue_end_date": null
+          },
+          "badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311828160547_73183.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311827300618_88100.png",
+              "small_image_url": null,
+              "small_dark_image_url": null,
+              "type": "FREE_SHIPPING"
+            }
+          ],
+          "brand_name_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253440850_86236.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253290551_11325.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252270325_99481.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252400801_82415.png",
+              "type": "MILEAGE"
+            }
+          ],
+          "thumbnail_nudge_badge_list": null,
+          "thumbnail_emblem_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "type": "FAST_START"
+            }
+          ]
+        }
+      },
+      {
+        "shop": {
+          "id": "20526",
+          "main_domain": "cq-tsn28u2w",
+          "name": "이니스프리"
+        },
+        "product": {
+          "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/11/17/20526_202311171517480212_73845.gif?width=400&height=400&quality=80&format=jpeg",
+          "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/11/17/20526_202311171517480212_73845.gif?width=400&height=400&quality=80&format=webp",
+          "product_url": "https://store.zigzag.kr/app/catalog/products/131228333",
+          "title": "(홀리데이) 레티놀 시카 흔적 앰플 50mL 대용량 단품 세트",
+          "discount_rate": 0,
+          "free_shipping": true,
+          "zpay": true,
+          "has_coupon": false,
+          "price": 57000,
+          "final_price": 57000,
+          "final_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 57000,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "max_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 0,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "is_zpay_discount": false,
+          "catalog_product_id": "131228333",
+          "browsing_type": "INTERNAL_BROWSER",
+          "review_count": 18,
+          "review_score": 4.6,
+          "shop_product_no": null,
+          "shop_id": "20526",
+          "is_zonly": false,
+          "is_brand": false,
+          "sellable_status": "ON_SALE",
+          "discount_info": null,
+          "badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311828160547_73183.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311827300618_88100.png",
+              "small_image_url": null,
+              "small_dark_image_url": null,
+              "type": "FREE_SHIPPING"
+            }
+          ],
+          "brand_name_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253440850_86236.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253290551_11325.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252270325_99481.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252400801_82415.png",
+              "type": "MILEAGE"
+            }
+          ],
+          "thumbnail_nudge_badge_list": null,
+          "thumbnail_emblem_badge_list": []
+        }
+      },
+      {
+        "shop": {
+          "id": "20526",
+          "main_domain": "cq-tsn28u2w",
+          "name": "이니스프리"
+        },
+        "product": {
+          "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/11/17/20526_202311171518120901_87547.gif?width=400&height=400&quality=80&format=jpeg",
+          "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/11/17/20526_202311171518120901_87547.gif?width=400&height=400&quality=80&format=webp",
+          "product_url": "https://store.zigzag.kr/app/catalog/products/131228440",
+          "title": "(홀리데이) 비타C 그린티 엔자임 잡티 토닝 세럼 50mL 대용량 단품 세트",
+          "discount_rate": 35,
+          "free_shipping": true,
+          "zpay": true,
+          "has_coupon": false,
+          "price": 36400,
+          "final_price": 36400,
+          "final_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 36400,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "max_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 56000,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "is_zpay_discount": true,
+          "catalog_product_id": "131228440",
+          "browsing_type": "INTERNAL_BROWSER",
+          "review_count": 3,
+          "review_score": 5,
+          "shop_product_no": null,
+          "shop_id": "20526",
+          "is_zonly": false,
+          "is_brand": false,
+          "sellable_status": "ON_SALE",
+          "discount_info": {
+            "image_url": null,
+            "title": "Z할인가",
+            "color": "#FA6EE3",
+            "issue_end_date": null
+          },
+          "badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311828160547_73183.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311827300618_88100.png",
+              "small_image_url": null,
+              "small_dark_image_url": null,
+              "type": "FREE_SHIPPING"
+            }
+          ],
+          "brand_name_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253440850_86236.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253290551_11325.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252270325_99481.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252400801_82415.png",
+              "type": "MILEAGE"
+            }
+          ],
+          "thumbnail_nudge_badge_list": null,
+          "thumbnail_emblem_badge_list": []
+        }
+      },
+      {
+        "shop": {
+          "id": "20526",
+          "main_domain": "cq-tsn28u2w",
+          "name": "이니스프리"
+        },
+        "product": {
+          "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/2/27/20526_202302271710480160_23109.jpeg?width=400&height=400&quality=80&format=jpeg",
+          "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/2/27/20526_202302271710480160_23109.jpeg?width=400&height=400&quality=80&format=webp",
+          "product_url": "https://store.zigzag.kr/app/catalog/products/123814700",
+          "title": "블랙티 유스 인핸싱 앰플 대용량 단품 세트",
+          "discount_rate": 30,
+          "free_shipping": true,
+          "zpay": true,
+          "has_coupon": false,
+          "price": 39200,
+          "final_price": 39200,
+          "final_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 39200,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "max_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 56000,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "is_zpay_discount": true,
+          "catalog_product_id": "123814700",
+          "browsing_type": "INTERNAL_BROWSER",
+          "review_count": 48,
+          "review_score": 4.9,
+          "shop_product_no": null,
+          "shop_id": "20526",
+          "is_zonly": false,
+          "is_brand": false,
+          "sellable_status": "ON_SALE",
+          "discount_info": {
+            "image_url": null,
+            "title": "Z할인가",
+            "color": "#FA6EE3",
+            "issue_end_date": null
+          },
+          "badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311828160547_73183.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311827300618_88100.png",
+              "small_image_url": null,
+              "small_dark_image_url": null,
+              "type": "FREE_SHIPPING"
+            }
+          ],
+          "brand_name_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253440850_86236.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253290551_11325.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252270325_99481.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252400801_82415.png",
+              "type": "MILEAGE"
+            }
+          ],
+          "thumbnail_nudge_badge_list": null,
+          "thumbnail_emblem_badge_list": []
+        }
+      },
+      {
+        "shop": {
+          "id": "20526",
+          "main_domain": "cq-tsn28u2w",
+          "name": "이니스프리"
+        },
+        "product": {
+          "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/4/13/20526_202304131639000688_24978.jpeg?width=400&height=400&quality=80&format=jpeg",
+          "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/4/13/20526_202304131639000688_24978.jpeg?width=400&height=400&quality=80&format=webp",
+          "product_url": "https://store.zigzag.kr/app/catalog/products/121773206",
+          "title": "블랙티 유스 인핸싱 오일 30mL",
+          "discount_rate": 30,
+          "free_shipping": true,
+          "zpay": true,
+          "has_coupon": false,
+          "price": 28000,
+          "final_price": 28000,
+          "final_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 28000,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "max_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 40000,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "is_zpay_discount": true,
+          "catalog_product_id": "121773206",
+          "browsing_type": "INTERNAL_BROWSER",
+          "review_count": 17,
+          "review_score": 4.9,
+          "shop_product_no": null,
+          "shop_id": "20526",
+          "is_zonly": false,
+          "is_brand": false,
+          "sellable_status": "ON_SALE",
+          "discount_info": {
+            "image_url": null,
+            "title": "Z할인가",
+            "color": "#FA6EE3",
+            "issue_end_date": null
+          },
+          "badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311828160547_73183.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311827300618_88100.png",
+              "small_image_url": null,
+              "small_dark_image_url": null,
+              "type": "FREE_SHIPPING"
+            }
+          ],
+          "brand_name_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253440850_86236.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253290551_11325.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252270325_99481.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252400801_82415.png",
+              "type": "MILEAGE"
+            }
+          ],
+          "thumbnail_nudge_badge_list": null,
+          "thumbnail_emblem_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "type": "FAST_START"
+            }
+          ]
+        }
+      },
+      {
+        "shop": {
+          "id": "20526",
+          "main_domain": "cq-tsn28u2w",
+          "name": "이니스프리"
+        },
+        "product": {
+          "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/2/28/20526_202302280947240549_56567.jpeg?width=400&height=400&quality=80&format=jpeg",
+          "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/2/28/20526_202302280947240549_56567.jpeg?width=400&height=400&quality=80&format=webp",
+          "product_url": "https://store.zigzag.kr/app/catalog/products/117980543",
+          "title": "블랙티 유스 인핸싱 트리트먼트 에센스 145mL",
+          "discount_rate": 30,
+          "free_shipping": true,
+          "zpay": true,
+          "has_coupon": false,
+          "price": 31500,
+          "final_price": 31500,
+          "final_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 31500,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "max_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 45000,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "is_zpay_discount": true,
+          "catalog_product_id": "117980543",
+          "browsing_type": "INTERNAL_BROWSER",
+          "review_count": 42,
+          "review_score": 4.9,
+          "shop_product_no": null,
+          "shop_id": "20526",
+          "is_zonly": false,
+          "is_brand": false,
+          "sellable_status": "ON_SALE",
+          "discount_info": {
+            "image_url": null,
+            "title": "Z할인가",
+            "color": "#FA6EE3",
+            "issue_end_date": null
+          },
+          "badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311828160547_73183.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311827300618_88100.png",
+              "small_image_url": null,
+              "small_dark_image_url": null,
+              "type": "FREE_SHIPPING"
+            }
+          ],
+          "brand_name_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253440850_86236.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253290551_11325.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252270325_99481.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252400801_82415.png",
+              "type": "MILEAGE"
+            }
+          ],
+          "thumbnail_nudge_badge_list": null,
+          "thumbnail_emblem_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "type": "FAST_START"
+            }
+          ]
+        }
+      },
+      {
+        "shop": {
+          "id": "20526",
+          "main_domain": "cq-tsn28u2w",
+          "name": "이니스프리"
+        },
+        "product": {
+          "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/4/13/20526_202304131637590851_94545.jpeg?width=400&height=400&quality=80&format=jpeg",
+          "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/4/13/20526_202304131637590851_94545.jpeg?width=400&height=400&quality=80&format=webp",
+          "product_url": "https://store.zigzag.kr/app/catalog/products/121764101",
+          "title": "그린티 씨드 히알루론산 세럼 (리필) 80mL",
+          "discount_rate": 15,
+          "free_shipping": true,
+          "zpay": true,
+          "has_coupon": false,
+          "price": 21250,
+          "final_price": 21250,
+          "final_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 21250,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "max_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 25000,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "is_zpay_discount": true,
+          "catalog_product_id": "121764101",
+          "browsing_type": "INTERNAL_BROWSER",
+          "review_count": 22,
+          "review_score": 5,
+          "shop_product_no": null,
+          "shop_id": "20526",
+          "is_zonly": false,
+          "is_brand": false,
+          "sellable_status": "ON_SALE",
+          "discount_info": {
+            "image_url": null,
+            "title": "Z할인가",
+            "color": "#FA6EE3",
+            "issue_end_date": null
+          },
+          "badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311828160547_73183.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311827300618_88100.png",
+              "small_image_url": null,
+              "small_dark_image_url": null,
+              "type": "FREE_SHIPPING"
+            }
+          ],
+          "brand_name_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253440850_86236.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253290551_11325.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252270325_99481.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252400801_82415.png",
+              "type": "MILEAGE"
+            }
+          ],
+          "thumbnail_nudge_badge_list": null,
+          "thumbnail_emblem_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "type": "FAST_START"
+            }
+          ]
+        }
+      },
+      {
+        "shop": {
+          "id": "20526",
+          "main_domain": "cq-tsn28u2w",
+          "name": "이니스프리"
+        },
+        "product": {
+          "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/5/15/20526_202305151711120404_61341.jpeg?width=400&height=400&quality=80&format=jpeg",
+          "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/5/15/20526_202305151711120404_61341.jpeg?width=400&height=400&quality=80&format=webp",
+          "product_url": "https://store.zigzag.kr/app/catalog/products/123156856",
+          "title": "포레스트 포맨 안티에이징 올인원 에센스 100mL",
+          "discount_rate": 25,
+          "free_shipping": true,
+          "zpay": true,
+          "has_coupon": false,
+          "price": 21750,
+          "final_price": 21750,
+          "final_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 21750,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "max_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 29000,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "is_zpay_discount": true,
+          "catalog_product_id": "123156856",
+          "browsing_type": "INTERNAL_BROWSER",
+          "review_count": 11,
+          "review_score": 5,
+          "shop_product_no": null,
+          "shop_id": "20526",
+          "is_zonly": false,
+          "is_brand": false,
+          "sellable_status": "ON_SALE",
+          "discount_info": {
+            "image_url": null,
+            "title": "Z할인가",
+            "color": "#FA6EE3",
+            "issue_end_date": null
+          },
+          "badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311828160547_73183.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311827300618_88100.png",
+              "small_image_url": null,
+              "small_dark_image_url": null,
+              "type": "FREE_SHIPPING"
+            }
+          ],
+          "brand_name_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253440850_86236.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253290551_11325.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252270325_99481.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252400801_82415.png",
+              "type": "MILEAGE"
+            }
+          ],
+          "thumbnail_nudge_badge_list": null,
+          "thumbnail_emblem_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "type": "FAST_START"
+            }
+          ]
+        }
+      },
+      {
+        "shop": {
+          "id": "20526",
+          "main_domain": "cq-tsn28u2w",
+          "name": "이니스프리"
+        },
+        "product": {
+          "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/2/28/20526_202302280946270801_89808.jpeg?width=400&height=400&quality=80&format=jpeg",
+          "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/2/28/20526_202302280946270801_89808.jpeg?width=400&height=400&quality=80&format=webp",
+          "product_url": "https://store.zigzag.kr/app/catalog/products/115506909",
+          "title": "블랙티 유스 인핸싱 트리트먼트 에센스 75mL",
+          "discount_rate": 30,
+          "free_shipping": true,
+          "zpay": true,
+          "has_coupon": false,
+          "price": 18900,
+          "final_price": 18900,
+          "final_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 18900,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "max_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 27000,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "is_zpay_discount": true,
+          "catalog_product_id": "115506909",
+          "browsing_type": "INTERNAL_BROWSER",
+          "review_count": 41,
+          "review_score": 4.7,
+          "shop_product_no": null,
+          "shop_id": "20526",
+          "is_zonly": false,
+          "is_brand": false,
+          "sellable_status": "ON_SALE",
+          "discount_info": {
+            "image_url": null,
+            "title": "Z할인가",
+            "color": "#FA6EE3",
+            "issue_end_date": null
+          },
+          "badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311828160547_73183.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311827300618_88100.png",
+              "small_image_url": null,
+              "small_dark_image_url": null,
+              "type": "FREE_SHIPPING"
+            }
+          ],
+          "brand_name_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253440850_86236.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253290551_11325.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252270325_99481.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252400801_82415.png",
+              "type": "MILEAGE"
+            }
+          ],
+          "thumbnail_nudge_badge_list": null,
+          "thumbnail_emblem_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "type": "FAST_START"
+            }
+          ]
+        }
+      },
+      {
+        "shop": {
+          "id": "20526",
+          "main_domain": "cq-tsn28u2w",
+          "name": "이니스프리"
+        },
+        "product": {
+          "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/5/15/20526_202305151712220056_51598.jpeg?width=400&height=400&quality=80&format=jpeg",
+          "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/5/15/20526_202305151712220056_51598.jpeg?width=400&height=400&quality=80&format=webp",
+          "product_url": "https://store.zigzag.kr/app/catalog/products/123156549",
+          "title": "포레스트 포맨 포어 케어 올인원 에센스 100mL",
+          "discount_rate": 25,
+          "free_shipping": true,
+          "zpay": true,
+          "has_coupon": false,
+          "price": 21750,
+          "final_price": 21750,
+          "final_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 21750,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "max_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 29000,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "is_zpay_discount": true,
+          "catalog_product_id": "123156549",
+          "browsing_type": "INTERNAL_BROWSER",
+          "review_count": 6,
+          "review_score": 5,
+          "shop_product_no": null,
+          "shop_id": "20526",
+          "is_zonly": false,
+          "is_brand": false,
+          "sellable_status": "ON_SALE",
+          "discount_info": {
+            "image_url": null,
+            "title": "Z할인가",
+            "color": "#FA6EE3",
+            "issue_end_date": null
+          },
+          "badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311828160547_73183.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311827300618_88100.png",
+              "small_image_url": null,
+              "small_dark_image_url": null,
+              "type": "FREE_SHIPPING"
+            }
+          ],
+          "brand_name_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253440850_86236.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253290551_11325.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252270325_99481.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252400801_82415.png",
+              "type": "MILEAGE"
+            }
+          ],
+          "thumbnail_nudge_badge_list": null,
+          "thumbnail_emblem_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "type": "FAST_START"
+            }
+          ]
+        }
+      },
+      {
+        "shop": {
+          "id": "20526",
+          "main_domain": "cq-tsn28u2w",
+          "name": "이니스프리"
+        },
+        "product": {
+          "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/4/13/20526_202304131650060173_83296.jpeg?width=400&height=400&quality=80&format=jpeg",
+          "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/4/13/20526_202304131650060173_83296.jpeg?width=400&height=400&quality=80&format=webp",
+          "product_url": "https://store.zigzag.kr/app/catalog/products/116938849",
+          "title": "퍼펙트 9 인텐시브 세럼 50mL",
+          "discount_rate": 30,
+          "free_shipping": true,
+          "zpay": true,
+          "has_coupon": false,
+          "price": 42700,
+          "final_price": 42700,
+          "final_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 42700,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "max_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 61000,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "is_zpay_discount": true,
+          "catalog_product_id": "116938849",
+          "browsing_type": "INTERNAL_BROWSER",
+          "review_count": 2,
+          "review_score": null,
+          "shop_product_no": null,
+          "shop_id": "20526",
+          "is_zonly": false,
+          "is_brand": false,
+          "sellable_status": "ON_SALE",
+          "discount_info": {
+            "image_url": null,
+            "title": "Z할인가",
+            "color": "#FA6EE3",
+            "issue_end_date": null
+          },
+          "badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311828160547_73183.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311827300618_88100.png",
+              "small_image_url": null,
+              "small_dark_image_url": null,
+              "type": "FREE_SHIPPING"
+            }
+          ],
+          "brand_name_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253440850_86236.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253290551_11325.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252270325_99481.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252400801_82415.png",
+              "type": "MILEAGE"
+            }
+          ],
+          "thumbnail_nudge_badge_list": null,
+          "thumbnail_emblem_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "type": "FAST_START"
+            }
+          ]
+        }
+      },
+      {
+        "shop": {
+          "id": "20526",
+          "main_domain": "cq-tsn28u2w",
+          "name": "이니스프리"
+        },
+        "product": {
+          "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/5/15/20526_202305151711330273_27071.jpeg?width=400&height=400&quality=80&format=jpeg",
+          "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/5/15/20526_202305151711330273_27071.jpeg?width=400&height=400&quality=80&format=webp",
+          "product_url": "https://store.zigzag.kr/app/catalog/products/123156808",
+          "title": "포레스트 포맨 센서티브 올인원 에센스 100mL",
+          "discount_rate": 25,
+          "free_shipping": true,
+          "zpay": true,
+          "has_coupon": false,
+          "price": 21750,
+          "final_price": 21750,
+          "final_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 21750,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "max_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 29000,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "is_zpay_discount": true,
+          "catalog_product_id": "123156808",
+          "browsing_type": "INTERNAL_BROWSER",
+          "review_count": 4,
+          "review_score": 5,
+          "shop_product_no": null,
+          "shop_id": "20526",
+          "is_zonly": false,
+          "is_brand": false,
+          "sellable_status": "ON_SALE",
+          "discount_info": {
+            "image_url": null,
+            "title": "Z할인가",
+            "color": "#FA6EE3",
+            "issue_end_date": null
+          },
+          "badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311828160547_73183.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311827300618_88100.png",
+              "small_image_url": null,
+              "small_dark_image_url": null,
+              "type": "FREE_SHIPPING"
+            }
+          ],
+          "brand_name_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253440850_86236.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253290551_11325.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252270325_99481.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252400801_82415.png",
+              "type": "MILEAGE"
+            }
+          ],
+          "thumbnail_nudge_badge_list": null,
+          "thumbnail_emblem_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "type": "FAST_START"
+            }
+          ]
+        }
+      },
+      {
+        "shop": {
+          "id": "20526",
+          "main_domain": "cq-tsn28u2w",
+          "name": "이니스프리"
+        },
+        "product": {
+          "image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/11/6/20526_202311061606520031_53248.jpeg?width=400&height=400&quality=80&format=jpeg",
+          "webp_image_url": "https://cf.product-image.s.zigzag.kr/original/d/2023/11/6/20526_202311061606520031_53248.jpeg?width=400&height=400&quality=80&format=webp",
+          "product_url": "https://store.zigzag.kr/app/catalog/products/124701550",
+          "title": "한란 인리치드 에센스 50mL",
+          "discount_rate": 30,
+          "free_shipping": true,
+          "zpay": true,
+          "has_coupon": false,
+          "price": 23100,
+          "final_price": 23100,
+          "final_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 23100,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "max_price_with_currency": {
+            "currency": "KRW",
+            "decimal": 0,
+            "price_without_decimal": 33000,
+            "display_currency": "",
+            "is_currency_prefix": false
+          },
+          "is_zpay_discount": true,
+          "catalog_product_id": "124701550",
+          "browsing_type": "INTERNAL_BROWSER",
+          "review_count": 7,
+          "review_score": 4.9,
+          "shop_product_no": null,
+          "shop_id": "20526",
+          "is_zonly": false,
+          "is_brand": false,
+          "sellable_status": "ON_SALE",
+          "discount_info": {
+            "image_url": null,
+            "title": "Z할인가",
+            "color": "#FA6EE3",
+            "issue_end_date": null
+          },
+          "badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311828160547_73183.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/category/2023/5/31/202305311827300618_88100.png",
+              "small_image_url": null,
+              "small_dark_image_url": null,
+              "type": "FREE_SHIPPING"
+            }
+          ],
+          "brand_name_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253440850_86236.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251253290551_11325.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252270325_99481.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/25/202308251252400801_82415.png",
+              "type": "MILEAGE"
+            }
+          ],
+          "thumbnail_nudge_badge_list": null,
+          "thumbnail_emblem_badge_list": [
+            {
+              "image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281205530794_28811.png",
+              "small_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "small_dark_image_url": "https://cf.image-farm.s.zigzag.kr/original/mkt/2023/8/28/202308281206010677_77105.png",
+              "type": "FAST_START"
+            }
+          ]
+        }
+      }
+    ],
+    "total_count": 19,
+    "end_cursor": "",
+    "exposure_order_type": "NOT_SELECTABLE",
+    "has_next_page": false
+  }
+}
