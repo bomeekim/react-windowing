@@ -9,13 +9,15 @@ const Container = styled('div')({
 
 const ProductsPage = () => {
   return (
-    <Container>
-      <Grid container justifyContent="center">
-        <Grid item xs={12} sm={8} md={6}>
-          <Products />
-        </Grid>
-      </Grid>
-    </Container>
+    <Products />
+    // <Container>
+    //   <Grid container justifyContent="center">
+    //     <Grid item xs={12} sm={8} md={6}>
+    //       <h1>안녕하세요</h1>
+    //       <Products />
+    //     </Grid>
+    //   </Grid>
+    // </Container>
   )
 }
 

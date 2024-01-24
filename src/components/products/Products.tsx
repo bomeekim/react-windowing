@@ -28,45 +28,50 @@ export default function Products() {
     flex: 1;
   `
 
+  const computeItemKey = (index: number) => `item-${index}`
+
   return (
-    <VirtuosoGrid
-      style={{ height: '1000px' }}
-      totalCount={19}
-      overscan={3}
-      components={{
-        Item: ItemContainer,
-        // TODO ts error
-        // @ts-ignore
-        List: ListContainer,
-        ScrollSeekPlaceholder: () => <Skeleton variant="rectangular" />,
-      }}
-      itemContent={(index) => {
-        const productItem = productDataItemList[index]
-        const { shop, product } = productItem
-        return (
-          <ItemWrapper>
-            <ProductCard
-              key={index}
-              imageUrl={product.webp_image_url}
-              sellerName={shop.name}
-              productName={product.title}
-              originPrice={product.max_price_with_currency.price_without_decimal}
-              discountRate={product.discount_rate}
-              discountTitle={product.discount_info?.title}
-              discountColor={product.discount_info?.color}
-              finalPrice={product.final_price}
-              badgeList={product.badge_list}
-              reviewScore={product.review_score}
-              reviewCount={product.review_count}
-            />
-          </ItemWrapper>
-        )
-      }}
-      scrollSeekConfiguration={{
-        enter: (velocity) => Math.abs(velocity) > 200,
-        exit: (velocity) => Math.abs(velocity) < 30,
-        change: (_, range) => console.log({ range }),
-      }}
-    />
+    <>
+      <VirtuosoGrid
+        style={{ overflow: 'auto' }}
+        totalCount={productDataItemList.length}
+        overscan={20}
+        components={{
+          Item: ItemContainer,
+          // TODO ts error
+          // @ts-ignore
+          List: ListContainer,
+          // ScrollSeekPlaceholder: () => (
+          //   <ItemContainer>
+          //     <ItemWrapper>
+          //       <Skeleton variant="rectangular" />
+          //     </ItemWrapper>
+          //   </ItemContainer>
+          // )
+        }}
+        itemContent={(index) => {
+          const productItem = productDataItemList[index]
+          const { shop, product } = productItem
+          return (
+            <ItemWrapper>
+              <ProductCard
+                key={index}
+                imageUrl={product.webp_image_url}
+                sellerName={shop.name}
+                productName={product.title}
+                originPrice={product.max_price_with_currency.price_without_decimal}
+                discountRate={product.discount_rate}
+                discountTitle={product.discount_info?.title}
+                discountColor={product.discount_info?.color}
+                finalPrice={product.final_price}
+                badgeList={product.badge_list}
+                reviewScore={product.review_score}
+                reviewCount={product.review_count}
+              />
+            </ItemWrapper>
+          )
+        }}
+      />
+    </>
   )
 }
